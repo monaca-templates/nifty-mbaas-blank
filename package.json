@@ -1,6 +1,6 @@
 {
     "name": "nifty-mbaas-blank",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "displayName": "NIFTY Cloud mobile backend",
     "cordova": {
         "plugins": {
