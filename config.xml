@@ -4,10 +4,7 @@
   <description/>
   <author/>
   <content src="index.html"/>
-  <access origin="*"/>
   <allow-navigation href="*"/>
-  <allow-intent href="itms:*"/>
-  <allow-intent href="itms-apps:*"/>
 
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="Orientation" value="default"/>
@@ -85,7 +82,6 @@
     <preference name="hostname" value="localhost"/>
   </platform>
   <platform name="android">
-    <preference name="android-targetSdkVersion" value="29" />
     <icon src="/res/android/icon/ldpi.png" density="ldpi"/>
     <icon src="/res/android/icon/mdpi.png" density="mdpi"/>
     <icon src="/res/android/icon/hdpi.png" density="hdpi"/>
