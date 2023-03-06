@@ -1,6 +1,6 @@
 {
     "name": "nifty-mbaas-blank",
-    "version": "3.0.1",
+    "version": "3.0.3",
     "displayName": "NIFTY Cloud mobile backend",
     "cordova": {
         "plugins": {
@@ -12,7 +12,7 @@
     "dependencies": {
         "cordova-plugin-splashscreen": "6.0.0",
         "monaca-plugin-monaca-core": "3.3.1",
-        "ncmb-push-monaca-plugin": "3.1.1"
+        "ncmb-push-monaca-plugin": "3.1.2"
     },
     "scripts": {
         "monaca:preview": "npm run dev",
